@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "image": "https://example.com/image1.jpg",
+      "title": "Test post 1",
+      "description": "this is an example post for testing",
+      "price": "1",
+      "payment_url": "upi://pay?pa=eleezabarik1706@okicici&pn=eleezabarik&am=1&cu=INR"
+    },
+    {
+      "id": 2,
+      "image": "https://example.com/image2.jpg",
+      "title": "Test post 2",
+      "description": "this is an example post for testing",
+      "price": "2",
+      "payment_url": "upi://pay?pa=eleezabarik1706@okicici&pn=eleezabarik&am=2&cu=INR"
+    }
+  ]
+  
