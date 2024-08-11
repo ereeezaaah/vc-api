@@ -5,7 +5,8 @@
       "title": "Test post 1",
       "description": "this is an example post for testing",
       "price": "1",
-      "payment_url": "upi id"
+      "payment_url": "upi id",
+      "status": "Sold"
     },
     {
       "id": 2,
@@ -13,7 +14,8 @@
       "title": "Test post 2",
       "description": "this is an example post for testing",
       "price": "2",
-      "payment_url": "upi id"
+      "payment_url": "upi id",
+      "status": "Buy now"
     }
   ]
   
