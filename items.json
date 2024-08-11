@@ -1,21 +1,13 @@
 [
     {
       "id": 1,
-      "image": "https://images.unsplash.com/photo-1723239406233-88c68024a4d5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw5fHx8ZW58MHx8fHx8",
-      "title": "Test post 1",
-      "description": "this is an example post for testing",
-      "price": "1",
+      "image": "https://photos.app.goo.gl/bTMBTjdAep83ynNu8",
+      "title": "Berserk",
+      "canvas": "16X20 inch"
+      "description": "jatt ka mukabla koi ni",
+      "price": "500.00",
       "payment_url": "upi id",
-      "status": "Sold"
-    },
-    {
-      "id": 2,
-      "image": "https://example.com/image2.jpg",
-      "title": "Test post 2",
-      "description": "this is an example post for testing",
-      "price": "2",
-      "payment_url": "upi id",
-      "status": "Buy now"
+      "status": "Sold out"
     }
   ]
   
