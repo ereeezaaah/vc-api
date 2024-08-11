@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "image": "https://example.com/image1.jpg",
+      "image": "https://images.unsplash.com/photo-1723239406233-88c68024a4d5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw5fHx8ZW58MHx8fHx8",
       "title": "Test post 1",
       "description": "this is an example post for testing",
       "price": "1",
