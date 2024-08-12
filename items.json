@@ -3,11 +3,11 @@
       "id": 1,
       "image": "https://i.imgur.com/H8BZGqq.png",
       "title": "Berserk",
-      "canvas": "16X20 inch",
-      "description": "jatt ka mukabla koi ni",
+      "size": "9X16 inch",
+      "type": "canvas",
       "price": "500.00",
       "payment_url": "upi id",
-      "status": "Sold out"
+      "status": "Sold out"      
     }
   ]
   
