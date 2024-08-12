@@ -7,7 +7,7 @@
       "type": "canvas",
       "price": "500.00",
       "payment_url": "upi id",
-      "status": "Sold"      
+      "status": "Sold"    
     },
     {
       "id": 2,
