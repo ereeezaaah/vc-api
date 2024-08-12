@@ -1,13 +1,23 @@
 [
     {
       "id": 1,
-      "image": "https://i.imgur.com/H8BZGqq.png",
-      "title": "Berserk",
+      "image": "https://i.imgur.com/Dp1ItbR.png",
+      "title": "Berserk-",
       "size": "9X16 inch",
       "type": "canvas",
       "price": "500.00",
       "payment_url": "upi id",
       "status": "Sold out"      
+    },
+    {
+      "id": 2,
+      "image": "https://i.imgur.com/V1B15PV.png",
+      "title": "काली बिल्ली-",
+      "size": "12X16 inch",
+      "type": "canvas",
+      "price": "800.00",
+      "payment_url": "upi id",
+      "status": "Buy"      
     }
   ]
   
