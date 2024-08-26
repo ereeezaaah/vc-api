@@ -8,7 +8,7 @@
       "price": "700.00",
       "payment_url": "upi id",
       "status": "Buy",
-      "search": ['cat', 'black', 'blackcat', 'night', 'creature']
+      "search": "cat,black,blackcat,night,creature"
     },
     {
       "id": 1,
@@ -19,7 +19,7 @@
       "price": "500.00",
       "payment_url": "upi id",
       "status": "Sold",
-      "search": ['anime', 'cartoon', 'berserk']  
+      "search": "anime,cartoon,berserk"
     }
   ]
   
